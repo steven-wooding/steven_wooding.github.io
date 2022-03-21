@@ -12,6 +12,8 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # R Markdown
 
+The thing that is really frustrating me is that I can't get the content of the pages to reflect what I've got in my repository.
+
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
